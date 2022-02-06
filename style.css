@@ -1,0 +1,52 @@
+
+
+body {
+    position: relative;
+  }
+
+/* header css start */
+.image{
+    max-width: 100%;
+    width: 40px;
+}
+.nav1{
+    background-color: #DFF3FC !important;
+} 
+/* header css end */
+
+/* section 2 start */
+.bc1{
+    background-color: #E9ECEF;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    border-radius: 5px;
+}
+.bc1 li a{
+    text-decoration: none;
+}
+/* section 2 end */
+
+/* section 3 start */
+.carousel-item img{
+    height: 500px;
+}
+/* section 3 end */
+
+/* section 5 start */
+.accordion button{
+    font-size: 20px;
+    font-weight: 600;
+    color: #007BFF;
+
+}
+/* section 5 end */
+
+footer{
+    background-color: #17A2B8;
+}
+footer p{
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
